@@ -20,9 +20,13 @@ This Laravel-based web application is designed to showcase folk dance communitie
 
 ## 📸 Screenshots
 
-> Add your screenshots here  
-> Example:  
-> ![Homepage](public/images/homepage.png)
+### Homepage
+![Homepage](homepage1.png)
+![Homepage](homepage2.png)
+
+### Aboutpage
+![Abooutpage](aboutpage.png)
+
 
 ## 🚀 Getting Started
 
